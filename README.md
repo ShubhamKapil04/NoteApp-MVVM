@@ -1,6 +1,8 @@
 # NoteApp-MVVM
 
 ![Static Badge](https://img.shields.io/badge/NoteApp-Kotlin)
+
+
 ![GitHub forks](https://img.shields.io/github/forks/ShubhamKapil04/NoteApp-MVVM)
 
 1. Kotlin
